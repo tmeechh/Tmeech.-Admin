@@ -1,0 +1,5 @@
+@media (max-width:481px) {
+    .add-category-price{
+        flex-direction:column;
+    }
+}

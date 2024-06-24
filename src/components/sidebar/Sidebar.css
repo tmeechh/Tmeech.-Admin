@@ -1,0 +1,23 @@
+.sidebar-option.active{
+    background-color: #FFF5CC;
+    border-color: #FFEA00;
+}
+
+@media (max-width:900px) {
+    .sidebar-option p{
+        display: none;
+    }
+
+    .sidebar-option .plus-icon{
+        display: flex;
+    }
+}
+
+@media (max-width:405px) {
+    .sidebar-option .plus-icon{
+         height: 22px;
+         width: 40px;
+         border-radius: 50%;
+         font-size: 15px;
+    }
+}
