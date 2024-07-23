@@ -1,3 +1,30 @@
-# React + Vite
+Admin Panel
+Overview
+This is an admin panel for managing orders and items in the application. Built with React, Vite, and Tailwind CSS, it allows administrators to view all orders, list items, and add new items.
 
-I created this project using React, Vite, Tailwind CSS, Javascript and Toastify. It includes numerous functionalities such as adding items, checking and updating orders, viewing item lists, and removing items. Any changes made by the admin are instantly reflected on the user account in the frontend.
+Features
+View all orders
+List all items
+Add new items
+Tech Stack
+React
+Vite
+Tailwind CSS
+Axios
+React Router DOM
+React Toastify
+
+
+
+
+Installation
+Prerequisites
+Make sure you have Node.js and npm installed on your machine.
+
+
+
+Contributing
+This is a private project. If you have access, feel free to open issues or submit pull requests for improvements and bug fixes.
+
+License
+This project is licensed under the MIT License.
